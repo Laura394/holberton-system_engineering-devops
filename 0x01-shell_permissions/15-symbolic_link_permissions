@@ -1,1 +1,2 @@
 #!/bin/bash
+sudo chown betty _hello | sudo chown -L [:[holberton]] _hello

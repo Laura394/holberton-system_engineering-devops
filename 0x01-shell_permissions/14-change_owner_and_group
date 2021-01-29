@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty | sudo chwon holberton /0x01-shel_permissions
+sudo chown betty /0x01-shel_permissions | sudo chwon holberton /0x01-shel_permissions
