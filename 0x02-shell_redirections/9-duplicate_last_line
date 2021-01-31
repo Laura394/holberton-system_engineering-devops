@@ -1,0 +1,2 @@
+#!/bin/bash
+awk '{print}' iacta | awk 'NR==13' iacta
